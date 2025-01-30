@@ -4,8 +4,10 @@ body {
 
 p {
     color: rgb(21, 183, 145);
+    text-align: center;
 }
 
 h2 {
     color: rgb(79, 30, 204);
+    font-size: 40px;
 }
